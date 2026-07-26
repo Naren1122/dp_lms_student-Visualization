@@ -1,0 +1,5 @@
+1) from bar graph we can see that python with ai/ml is popular among enrollments which is 102
+2) from bar graph we can see that python with ai/ml generate the highest revenue which is 510000
+3) from bar grapgh we can see that 	Samriddha Pathak has the largest which is  146 students
+4) from bar graph we can see that Janakpur has most number of enrollments
+5) Based on scatter plot , Students with higher attendance percentages generally achieve better final scores. This suggests that regular attendance has a positive impact on academic performance. Encouraging students to maintain high attendance may improve overall learning outcomes, although other factors also contribute to final performance.
